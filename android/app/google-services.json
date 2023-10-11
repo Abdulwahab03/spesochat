@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567123769461",
+    "project_id": "speso-chat-66efa",
+    "storage_bucket": "speso-chat-66efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567123769461:android:ffec4ffbfa47d3fe74e03c",
+        "android_client_info": {
+          "package_name": "com.example.speso_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-XEXpzAzU6guN0YfTcIc9WrlNEXWRoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
