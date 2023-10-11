@@ -1,6 +1,11 @@
 # speso_chat
 
-A new Flutter project.
+
+This is flutter chatt app built with flutter framework.
+
+the project is a small chatting app in which firebase cloud_firestore was used for storing users data like names and other email.
+
+Also authentication was made possible with the aid of firebase authentication
 
 ## Getting Started
 
